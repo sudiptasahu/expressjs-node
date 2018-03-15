@@ -1,0 +1,17 @@
+{
+  "name": "expressjs-node",
+  "version": "1.0.0",
+  "description": "express server with node",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "~1.0.0",
+    "express": "~4.0.0",
+    "mysql": "*"
+  },
+  "author": "sudipta",
+  "license": "ISC"
+}

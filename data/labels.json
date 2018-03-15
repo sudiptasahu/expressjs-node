@@ -1,0 +1,10 @@
+{
+	"appHeader": "Welcome to {0}",	
+	"userName": "User Name",
+	"password": "Password",
+	"refresh": "Refresh",
+	"captchaMsg": "Captcha letters are case sensitive and to be entered in upper case only",
+	"captchaPlaceholder": "Enter Captcha",
+    	"avblQuotas": "Available Quotas",
+    	"trainList": "Train List"
+}

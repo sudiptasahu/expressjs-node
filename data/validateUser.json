@@ -1,0 +1,103 @@
+{
+    "aadhaarVerifyFlag": "9",
+    "countryId": "94",
+    "dob": "16-12-1980",
+    "eWalletAadhaarRegisterFlag": "false",
+    "eWalletExpireFlag": "false",
+    "email": "sudipta@cris.org.in",
+    "emailVerified": "false",
+    "firstName": "sudipta  sahu",
+    "gender": "M",
+    "informationMessage": [
+        {
+            "message": "Are you aware that 43% of your fare is borne by the common man?",
+            "paramName": "ERS",
+            "popup": "false"
+        },
+        {
+            "message": "Shop at IRCTC",
+            "paramName": "SHOPNAME",
+            "popup": "false"
+        },
+        {
+            "message": "https://www.irctc.co.in",
+            "paramName": "SHOPURL",
+            "popup": "false"
+        },
+        {
+            "message": "0",
+            "paramName": "GOVT_ADS_ENABLE",
+            "popup": "false"
+        }
+    ],
+    "isdCode": "0",
+    "lastName": "",
+    "lastTxnId": "200000062461294",
+    "lastTxnStatus": "Payment Requested",
+    "middleName": "",
+    "mobile": "9831530012",
+    "mobileAppConfigDTO": {
+        "captchaFillCheckEndTime": "1430",
+        "captchaFillCheckStartTime": "15",
+        "formFillCheckEnable": "1",
+        "formFillCheckEndTime": "720",
+        "formFillCheckStartTime": "15",
+        "gstEnable": "true",
+        "minmCaptchaInputTime": "1000",
+        "minmPaymentTime": "10000",
+        "minmPsgnInputTime": "20000",
+        "paymentCompletCheckEnable": "0"
+    },
+    "mobileVerified": "false",
+    "otpLogin": "0",
+    "rdsFlag": "2",
+    "renewFlag": "0",
+    "rolles": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1",
+        "0"
+    ],
+    "serverId": "Server-0",
+    "timeStamp": "2018-01-13T18:37:43.598",
+    "userConfigurablesDTO": {
+        "loyaltyAccrualBookingAllowed": "false",
+        "loyaltyNumberLinkFlag": "true",
+        "loyaltyRedemptionBookingAllowed": "false",
+        "softAccountSummaryDTO": {
+            "accountCreationDate": "2016-04-19T00:00:00",
+            "accountExpirationDate": "2017-04-18T00:00:00",
+            "loyaltyNumber": "11111111111",
+            "softAccountStatus": "Not Allow Accrual Not Allow Redemption",
+            "softUserName": "sudipta  sahu",
+            "totalPartnerPoints": "0",
+            "totalPointsAvailable": "11576",
+            "totalPointsAvailableToRedeem": "11576",
+            "totalPointsRedeemed": "63444",
+            "totalPurchasePoints": "10627",
+            "totalTravelPoints": "949"
+        },
+        "softUser": "true"
+    },
+    "userEnableState": "1",
+    "userId": "0",
+    "userName": "sudipta",
+    "userPaymentFlag": "false",
+    "verificationIdNumber": "",
+    "verified": "true"
+}
