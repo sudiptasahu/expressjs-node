@@ -15,7 +15,7 @@ module.exports = function(app)
 		res.json(req.headers);
 	});
 	app.post('/text',function(req,res,next){
-		res.send('This call will return some TEXT.');
+		res.send('This call will return some TEXT-Sabitra.');
 	});
 	app.post('/save',function(req,res,next){
 		console.log(req.body);
