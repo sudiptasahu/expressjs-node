@@ -11,11 +11,38 @@ module.exports = function(app)
 	app.get('/test',function(req,res){
 		res.render('about.html');
 	});
+	app.get('/demo_sse',function(req,res){
+		res.render('demo_sse.html');
+	});
 	app.get('/headers',function(req,res,next){
 		res.json(req.headers);
 	});
-	app.post('/text',function(req,res,next){
-		res.send('This call will return some TEXT-Sabitra.');
+	app.get('/text',function(req,res,next){
+		res.send('This call will return some TEXT.');
+	});
+	app.get('/file/:type?',function(req,res,next){
+		
+		var fType = req.params.type;
+		var fPath = 'response.txt';
+		if(fType && fType === 'pdf'){
+			fPath='response.pdf'
+		}
+		const fs = require('fs');
+		fs.exists(fPath, function(exists){
+			if (exists) {     
+	        // Content-type is very interesting part that guarantee that
+	        // Web browser will handle response in an appropriate manner.
+	        console.log(fPath + ' exists...');
+	        res.writeHead(200, {
+	          "Content-Type": "application/octet-stream",
+	          "Content-Disposition": "inline"
+	        });
+	        fs.createReadStream(fPath).pipe(res);
+      }
+		});
+		 // else {
+   //    	res.download('./response.txt');
+   //    }
 	});
 	app.post('/save',function(req,res,next){
 		console.log(req.body);

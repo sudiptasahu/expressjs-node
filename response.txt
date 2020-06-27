@@ -1,0 +1,79 @@
+*----------------------------------------------------------------------------------------------------------------------------------*
+*                                                    D T C   TRANSACTION  DETAILS                                 PAGE NO: 001     *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*BKG DATE:16: 6:2020 TIME:10:55: 9 PRS_ID: V LOC_ID: IRC1 TRML_NO:  58 WND_NO:   6 SHIFT_NO: 1 OPER_NO: 1 OPER_ID: SUPER5          *
+*----------------------------------------------------------------------------------------------------------------------------------*
+* SLP  PNR NO  TRAIN CLASS  JRNY     STATIONS      AMOUNT RECEIVED      NEW   CAN  CLK      R E F U N D S          FARE BREAK UP   *
+* NO            NO          DATE  SRC ENRT DSTN  CASH  RTC  VCH   CST   TKT   FEE       CASH  RTC  VCH  CST  BASE  RES  SF  OTHER  *
+*                                                                       VAL                                  FARE  FEE  CH  CHARG  *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*  1*4403839653*12625*SL/  *25- 6*TVC *    *NDLS*     *    *     *     *     *  20*   0* 1930*   0*    *    *     *    *   *   *   *
+* XACT_TYPE: 43 TKT_TYPE: S   TKT_STAT: M  TKT_NO:                                                                                 *
+* PSG_TOT:   2 AD:  2CH:  0 VCH: 0  STAT_CNF:  2RAC:  0 WL:  0   TXN TIME : 11:33:11                                               *
+* OLD_TKT-ISSDATE: 16-06 WND_NO: 13   TKTNO: 2                          CASH:  1950   RTC:     0   VCH:     0   CST:     0         *
+* 2ND LAP DTLS -  TRAIN NO:          JRNY_DATE: 25- 6    STATIONS - SRC:      ENRT:      DSTN:         STAT CNF: 0  RAC: 0  WL: 0  *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*  1*4403839653*12625*SL/  *25- 6*TVC *    *NDLS*  975*   0**   0**   0*  975*    *    *    *    *    *    *  925*  20* 30*      0*
+* XACT_TYPE: 43 TKT_TYPE: S  TKT_STAT: R  TKT_NO:        1                                                                         *
+* PSG_TOT:   1 AD:  1CH:  0 VCH:  0 STAT_CNF:  1 RAC:  0 WL:  0                                                                    *
+* OLD_TKT-ISSDATE:   -   WND_NO:     TKTNO:                                    CASH:        RTC:       VCH:         CST:           *
+* 2ND LAP DTLS -  TRAIN NO:          JRNY_DATE: 26- 6    STATIONS - SRC:      ENRT:      DSTN:         STAT CNF: 0  RAC: 0  WL: 0  *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*  1*4516100344*12625*SL/  *26- 6*TVC *    *NDLS*  975*   0**   0**   0*  975*    *    *     *    *    *    *  925*  20* 30*      0*
+* XACT_TYPE: 43 TKT_TYPE: S TKT_STAT: R TKT_NO:        2                                                                           *
+* PSG_TOT:   1 AD:  1CH:  0 VCH:  0 STAT_CNF:  1 RAC:  0 WL:  0                                                                    *
+* OLD_TKT-ISSDATE:   -   WND_NO:     TKTNO:                                    CASH:        RTC:       VCH:         CST:           *
+* 2ND LAP DTLS -  TRAIN NO:          JRNY_DATE: 26- 6    STATIONS - SRC:      ENRT:      DSTN:         STAT CNF: 0  RAC: 0  WL: 0  *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*  2*4516100347*12625*SL/  *28- 6*TVC *    *NDLS*     *    *     *     *     *  20*   0* 1930*   0*    *    *     *    *   *   *   *
+* XACT_TYPE: 43 TKT_TYPE: S   TKT_STAT: M  TKT_NO:                                                                                 *
+* PSG_TOT:   2 AD:  2CH:  0 VCH: 0  STAT_CNF:  2RAC:  0 WL:  0   TXN TIME : 15:23:22                                               *
+* OLD_TKT-ISSDATE: 16-06 WND_NO: 13   TKTNO: 3                          CASH:  1950   RTC:     0   VCH:     0   CST:     0         *
+* 2ND LAP DTLS -  TRAIN NO:          JRNY_DATE: 28- 6    STATIONS - SRC:      ENRT:      DSTN:         STAT CNF: 0  RAC: 0  WL: 0  *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*  2*4516100347*12625*SL/  *28- 6*TVC *    *NDLS*  975*   0**   0**   0*  975*    *    *    *    *    *    *  925*  20* 30*      0*
+* XACT_TYPE: 43 TKT_TYPE: S  TKT_STAT: R  TKT_NO:        3                                                                         *
+* PSG_TOT:   1 AD:  1CH:  0 VCH:  0 STAT_CNF:  1 RAC:  0 WL:  0                                                                    *
+* OLD_TKT-ISSDATE:   -   WND_NO:     TKTNO:                                    CASH:        RTC:       VCH:         CST:           *
+* 2ND LAP DTLS -  TRAIN NO:          JRNY_DATE:  3- 7    STATIONS - SRC:      ENRT:      DSTN:         STAT CNF: 0  RAC: 0  WL: 0  *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*  2*4616643570*16317*SL/  * 3- 7*TVC *    *NDLS*  975*   0**   0**   0*  975*    *    *     *    *    *    *  925*  20* 30*      0*
+* XACT_TYPE: 43 TKT_TYPE: S TKT_STAT: R TKT_NO:        4                                                                           *
+* PSG_TOT:   1 AD:  1CH:  0 VCH:  0 STAT_CNF:  1 RAC:  0 WL:  0                                                                    *
+* OLD_TKT-ISSDATE:   -   WND_NO:     TKTNO:                                    CASH:        RTC:       VCH:         CST:           *
+* 2ND LAP DTLS -  TRAIN NO:          JRNY_DATE:  3- 7    STATIONS - SRC:      ENRT:      DSTN:         STAT CNF: 0  RAC: 0  WL: 0  *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*  3*4616643572*12625*SL/  *28- 6*TVC *    *NDLS*     *    *     *     *     *  43*   0* 1907*   0*    *    *     *    *   *   *   *
+* XACT_TYPE: 43 TKT_TYPE: S   TKT_STAT: M  TKT_NO:                                                                                 *
+* PSG_TOT:   2 AD:  2CH:  0 VCH: 0  STAT_CNF:  2RAC:  0 WL:  0   TXN TIME : 15:40:47                                               *
+* OLD_TKT-ISSDATE: 16-06 WND_NO: 13   TKTNO: 4                          CASH:  1950   RTC:     0   VCH:     0   CST:     0         *
+* 2ND LAP DTLS -  TRAIN NO:          JRNY_DATE: 28- 6    STATIONS - SRC:      ENRT:      DSTN:         STAT CNF: 0  RAC: 0  WL: 0  *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*  3*4616643572*12625*SL/  *28- 6*TVC *    *NDLS*  975*   0**   0**   0*  975*    *    *    *    *    *    *  925*  20* 30*      0*
+* XACT_TYPE: 43 TKT_TYPE: S  TKT_STAT: R  TKT_NO:        5                                                                         *
+* PSG_TOT:   1 AD:  1CH:  0 VCH:  0 STAT_CNF:  1 RAC:  0 WL:  0                                                                    *
+* OLD_TKT-ISSDATE:   -   WND_NO:     TKTNO:                                    CASH:        RTC:       VCH:         CST:           *
+* 2ND LAP DTLS -  TRAIN NO:          JRNY_DATE: 28- 6    STATIONS - SRC:      ENRT:      DSTN:         STAT CNF: 0  RAC: 0  WL: 0  *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*----------------------------------------------------------------------------------------------------------------------------------*
+*                                                    D T C   TRANSACTION  DETAILS                                 PAGE NO: 002     *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*BKG DATE:16: 6:2020 TIME:10:55: 9 PRS_ID: V LOC_ID: IRC1 TRML_NO:  58 WND_NO:   6 SHIFT_NO: 1 OPER_NO: 1 OPER_ID: SUPER5          *
+*----------------------------------------------------------------------------------------------------------------------------------*
+* SLP  PNR NO  TRAIN CLASS  JRNY     STATIONS      AMOUNT RECEIVED      NEW   CAN  CLK      R E F U N D S          FARE BREAK UP   *
+* NO            NO          DATE  SRC ENRT DSTN  CASH  RTC  VCH   CST   TKT   FEE       CASH  RTC  VCH  CST  BASE  RES  SF  OTHER  *
+*                                                                       VAL                                  FARE  FEE  CH  CHARG  *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*  3*4616643575*12625*3A/  *28- 6*TVC *    *NDLS* 2195*   0**   0**   0* 2195*    *    *     *    *    *    * 2005*  40* 45*    105*
+* XACT_TYPE: 43 TKT_TYPE: S TKT_STAT: R TKT_NO:        6                                                                           *
+* PSG_TOT:   1 AD:  1CH:  0 VCH:  0 STAT_CNF:  1 RAC:  0 WL:  0                                                                    *
+* OLD_TKT-ISSDATE:   -   WND_NO:     TKTNO:                                    CASH:        RTC:       VCH:         CST:           *
+* 2ND LAP DTLS -  TRAIN NO:          JRNY_DATE: 28- 6    STATIONS - SRC:      ENRT:      DSTN:         STAT CNF: 0  RAC: 0  WL: 0  *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*                                                         T O T A L S                                                              *
+*           R E C E I V E D                                                      R E F U N D                        CAN   CLERKAGE *
+*     CASH     CARD     DIGI      RTC      VCH      CST      CASH     CARD     DIGI      RTC      VCH      CST      FEE            *
+*     7070        0        0        0        0        0      5767        0        0        0        0        0        83         0 *
+*----------------------------------------------------------------------------------------------------------------------------------*
+*                                                                                                                                  *
+*----------------------------------------------------------------------------------------------------------------------------------*
